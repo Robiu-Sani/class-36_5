@@ -1,1 +1,5 @@
-text file
+to get any item from local storage we use =====    getItem('keyName')
+to save any item ==== setItem('keyName','keyValue')
+to remove nay item ======= removeItem('keyName')
+toadd object =======  JSON.stringify(object name)
+string to object ========== JSON.parse(object name)
